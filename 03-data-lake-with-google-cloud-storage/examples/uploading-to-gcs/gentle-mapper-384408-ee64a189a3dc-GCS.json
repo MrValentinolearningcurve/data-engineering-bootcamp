@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gentle-mapper-384408",
+  "private_key_id": "ee64a189a3dcec352005ed672fd2bb33053095f4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCimE/C+rNYOVMM\n7fA8Riz1H2JgoSzkVIv++wRuX8HyE1JD489cyZbBK4ztHJj6hNLk5t90gc/Nenbf\nk+WI4PUZYtTHGhx9O111Wl6i8t9HAHI14uwlPc+1XUVrvbRuD4hv8mOEt7YVXPNU\ntK934bkMR5rOCBc9nl6tOQ2XzrqTNPGrX4vkyyWn0IOwE9S2n5kadw+5EYOysEi+\nIBCmreenYWkKt4Zs/2Jz7Fcct+cBTyCmqNEPZHfnQ8AcBRHW+y2czAKqNna2AbSn\n/djA5alkHX0VzL5Bl3FUzQ2Make+jZsBzGQb9TejDL7bVq5cq2ExsngAX6Pf2uck\nSFq7C1wnAgMBAAECggEABSqLwOk6+5ROtDwh2aMX2JitBTRPJdjIiKCB196eXfUJ\nNHOvlLDUY8I2Jxk1LyM7RDSlvaDw8QQcH3x72uky6yHocC8UiqdxOm0AUXMgGbRv\nlztk6htYVy3l1Rzg98JHQS9VbtPGKvrvbFiVXrIYXBsxAFeMzX4TtLNPCuzG9thh\n1zvWzID2qr0Xzc1iKUg9Vd9wOD6Da/LjuK9wGnwuNYTkxcTznS8WF7Y3rWLvjt4P\ny7ZledP5vuLIhfWBUfDzKdSzWkY37qRCmQ9tBLF5/YvVV+HGyNh67Ps05HU2EtIV\noFvBugI//cT4SUoenLqPotSeNiWrH+/3jodq5FTqSQKBgQDPWMOWDv2Ap3cJeoPk\nIRPK1pprUmY2Q4xcQl1kIPClCTUMuyJpePk53AGt10KkdeRIVSkWVw7PL9qzSQ5/\nuUsHYqoGYK75Z0ELo3G1LcPLX8K4nYhsd+dnmEyvjRjlslykhMkTh6ZBJGFFi8EG\n1jWa7GhCGHCinCcn00pmlzzr+wKBgQDIv1Ogjii4qtBAcNY5cjadcclzzBXugmdL\nPV6rI3ni4qM/a6/9V1rJ341NfAyvx5TPALRS+RFl+kPfSU8X8RGrBzY09xcEEOP/\nCSJcW6A/GFVUq9h2BPPjMx8OVUfPdZzOrwCEh4aSgITIPy8NqkvENupvl9/Enz1L\n200ylS4MxQKBgQC0lYRSjt+uSyvbb36rEzvfryRyUCOBIzd9qrcX27B6rBgt7FW+\nMoQtJjW4KAB8p8iYTsMoF85oGC+LchdUmhaEaiPWxiHeSVVXQ5RmzWL3H4HBtEH6\n5jr9+KDhTCvg8YTKLHPLtJrRpVOqdFs7DxlEwpzS4+JFXWakwtrLmvCOPQKBgFeI\nFU7MrbTXxjZS/RXPV0EPfGehdW6qLaABAmZc8aicadIdgn9Ut6GOeG5wyJdczuXz\nyKzlLVDp7u5NaM9nreyFGH2/v6lmNAPgV7stuJHKamqhA6FyR2WpxMDbLpSnE9iL\nNg6TiXoXz84AvuOWfbLwvwgpkMiLJo8M8Hw9z/aBAoGBALQuBuUtaUn2CbE5tyy9\neSqMqM/6a79bYZtWou8U4lX9nzklnXfASJ7p7EK8Xk+uKfTFM7a8CQXAXvm+MZtJ\n5Uo8sKnX3OA4NGw11xXMMSK2P9Y2IXkJdM7psESrMLi4f0uyjsMZGd4JHo5MNT/U\ngpXyc4SWVPaB9FX/ISo5yXoE\n-----END PRIVATE KEY-----\n",
+  "client_email": "deb-workshop-day3-gcs@gentle-mapper-384408.iam.gserviceaccount.com",
+  "client_id": "103531281054192133276",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/deb-workshop-day3-gcs%40gentle-mapper-384408.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -9,7 +9,8 @@ from google.cloud import bigquery
 from google.oauth2 import service_account
 
 ## service_account
-keyfile = os.environ.get("KEYFILE_PATH") 
+keyfile = os.environ.get("KEYFILE_PATH")
+keyfile = "gentle-mapper-384408-798d770d1940.json" 
 service_account_info = json.load(open(keyfile))
 credentials = service_account.Credentials.from_service_account_info(service_account_info)
 project_id = "gentle-mapper-384408"

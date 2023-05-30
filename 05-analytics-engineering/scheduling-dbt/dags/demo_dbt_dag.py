@@ -9,9 +9,9 @@ example_dbt_project = DbtDag(
     start_date=timezone.datetime(2022, 11, 27),
     conn_id="example_bigquery",
     catchup=False,
-    dbt_project_name="example_dbt_project",
+    dbt_project_name="greenery",
     dbt_args={
-        "schema": "dbt_bootcamp"
+        "schema": "deb_bootcamp"
     },
     dbt_root_path="/opt/airflow/dbt",
 )

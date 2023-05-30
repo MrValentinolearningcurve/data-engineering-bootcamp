@@ -1,0 +1,21 @@
+networkrail:
+  target: dbt_valen
+
+  outputs:
+    dbt_valen:
+      type: bigquery
+      method: service-account
+      project: gentle-mapper-384408
+      dataset: dbt_valen
+      threads: 1
+      keyfile: /workspaces/data-engineering-bootcamp/07-end-to-end-project/dags/gentle-mapper-384408-01f75975d61f.json
+      location: asia-southeast1
+
+    prod:
+      type: bigquery
+      method: service-account
+      project: gentle-mapper-384408
+      dataset: networkrail
+      threads: 1
+      keyfile: /workspaces/data-engineering-bootcamp/07-end-to-end-project/dags/gentle-mapper-384408-01f75975d61f.json
+      location: asia-southeast1

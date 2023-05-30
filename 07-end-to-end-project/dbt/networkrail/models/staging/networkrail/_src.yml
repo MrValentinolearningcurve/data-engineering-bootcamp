@@ -1,0 +1,17 @@
+version: 2
+
+sources:
+  - name: networkrail
+    schema: networkrail
+    database: gentle-mapper-384408
+
+    tables:
+      - name: movements
+        description: Network Rail movement data
+        columns:
+          - name: event_type
+            description: Event type
+        freshness:
+          warn_after: {count: 1, period: hour}
+          error_after: {count: 2, period: hour}
+        loaded_at_field: actual_timestamp

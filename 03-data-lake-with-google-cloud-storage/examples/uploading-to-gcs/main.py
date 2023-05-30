@@ -19,7 +19,7 @@ def upload_blob(bucket_name, source_file_name, destination_blob_name):
     keyfile = os.environ.get("KEYFILE_PATH")
     service_account_info = json.load(open(keyfile))
     credentials = service_account.Credentials.from_service_account_info(service_account_info)
-    project_id = "dataengineercafe"
+    project_id = "gentle-mapper-384408"
 
     storage_client = storage.Client(
         project=project_id,

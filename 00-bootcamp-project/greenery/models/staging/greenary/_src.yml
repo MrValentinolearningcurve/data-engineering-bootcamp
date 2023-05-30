@@ -1,0 +1,17 @@
+version: 2
+
+sources:
+  - name: greenery
+    schema: deb_bootcamp
+    database: gentle-mapper-384408
+
+    tables:
+      - name: users
+        description: Greenery users
+      - name: events
+        description: Greenery events
+      - name: addresses
+      - name: products
+      - name: promos
+      - name: orders
+      - name: orders_items

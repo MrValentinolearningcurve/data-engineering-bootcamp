@@ -23,7 +23,7 @@ mkdir -p ./dags ./logs ./plugins ./tests
 On **Linux**, please make sure to configure the Airflow user for the docker-compose:
 
 ```sh
-echo -e "AIRFLOW_UID=$(id -u)" > .env
+echo -e "AIRFLOW_UID=$(id -u)" > .env 
 ```
 
 See [Setting the right Airflow

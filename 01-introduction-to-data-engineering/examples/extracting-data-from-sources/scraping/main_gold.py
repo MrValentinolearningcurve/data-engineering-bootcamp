@@ -28,9 +28,10 @@ class MySpider(scrapy.Spider):
 
         # Write to CSV
         # YOUR CODE HERE
-
+        
 
 if __name__ == "__main__":
     process = CrawlerProcess()
     process.crawl(MySpider)
     process.start()
+

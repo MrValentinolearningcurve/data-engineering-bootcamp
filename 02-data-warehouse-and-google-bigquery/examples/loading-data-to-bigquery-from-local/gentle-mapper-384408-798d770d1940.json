@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gentle-mapper-384408",
+  "private_key_id": "798d770d1940d178800f846f0528c43a90adab8b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDJtM19wmqiIhod\nHvPH6icDiGqkfYKtD8SvnA0QYztn1tW/CZMmr74WcLU1/qbT3hDeuB2GEyGTkbQE\nrfkb2stN+VZvdkla6QaoEJNDV8Tts9U7JJ1944c3oYt5DJ4ow3LCEWnmg+TQ94bh\nz8bZibl78l1CxmZhSQ+QB88XDf+QewKxklF2Km78qZaPQ602OSVmMBLoz9Eqwllu\nHUQDIr5vkMjiypNhMqHrC/8y753ZLNWuKH8e3kGgMGtVUR91pyfVqt97v0mkJ+Mi\nLSqIJ0QHbsznblPuJvt7zH7JoSj6tZueWOm/iX5EVfgDqKu+2xDJrawT60LwiAQP\nuOo4e39jAgMBAAECggEACswYYekp1HMB4IQwetzwaLKBOZE/EQIyk6SarcFkw9q5\nXL1no0muDGfNHiOlt4VVdC6j5Jzv46/dfztMMJmw31l/ryjEUCRVhw1CwiHtIzzz\nUZ6p+uar7XuYH+CKiNZpirTsQnrV9qUBaI4QRW3SFYNJoGecFwzA/gNE/9AahEJ7\nprXycCZF/yw0zFxKqhlxIjjzyN+xdbR/hZrBJxTvoKDSsvMmAGvXFUCvF70qOLrD\nV2+k9MSP8sdQv1jbt7esYRQCp1akhSgcGeQwxQivGcyRi3rDiK1H9/CmVaYgXeLg\njfEjrFWIx/m1mqnKyGnCudYwpZksnjpkIHA3lVUZDQKBgQD8lplTQglEqmw+LFI1\nWZ2iztM5DMpdv/HWk3nVPmVL2IP7ziwfGez6QYbom6DnWp/TezQvQaGboPTqQlrt\nqXDVccQmHQ3MpAhAk+ije+e/2qW3hFqLT8mhSy9mXWmFIac9kx+tAcxA06b9+cIo\nJlBpwb8XIMqoS8UuCxXhBy903wKBgQDMbkN/0fpn/K024AL98dWwUidyXEvrA7tL\nyetwGA5b5BBjrRHgRdL9iDA7fxknZACH+tCsN6knsWymOsXPGMS1aGjH4+ttOo2P\nwMeo4Or996lHZOEK25Ps2UHACxTeESFCaZ+xzaTuhQTroskcKqRHr2kBt/jIH/NG\nrQhR/cPh/QKBgGg7LSIySejP+sLdPz9Mr8QTXQ5ZvNha8Mz/JnNcwChAPJaYSZS7\n+hJ7H9S1A/z0ZKe8W5h0mN/D180jfKo+FZW+0JZ5vswHlHAxmPp9kvCUpXXJZCPA\n1Q9+Gx0+xuBtNrouEBAwgbzumiaL/hbbWKuLi/NbUMWKHuAVKv4lHOw5AoGBALwn\ndErN2XoiDs7l6PsPvUzWoGXaWymIOrertd1q1rRuuUL0hPJ1cZdV5IauGVmu6eo9\nyBfp9u+IlmZ8y5krw8jvuxjXRtU2whogJePid4aejpgeWh5jMMgawjBeQquM+p6k\nlo3Qp0+88GVsY0tgV+l+odgqGnkfJwrSsUi9lq+FAoGBAOPFT6zy+Gu+XZw2Vmk0\npUyFlE0CvihukWQ/N85zZRvErt6UArmZxWM3Wzzf87xoro9RET7Z1MlrE90POy45\nikIb7fidCwmjH13DFyZbpYMz6IwyxJx2OhghVW3f/zdB4RkeE9+tN3FmtXm0UxaE\nHGYCJIRu5FlQxCmTRZeS3tYM\n-----END PRIVATE KEY-----\n",
+  "client_email": "deb-bigquery-workshop-day-2@gentle-mapper-384408.iam.gserviceaccount.com",
+  "client_id": "102767835537667518041",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/deb-bigquery-workshop-day-2%40gentle-mapper-384408.iam.gserviceaccount.com"
+}

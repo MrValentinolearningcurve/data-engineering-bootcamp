@@ -1,0 +1,9 @@
+version: 2
+
+seeds:
+  - name: operating_companies
+    config:
+      schema: seed
+      column_types:
+        toc_id: string
+        company_name: string
