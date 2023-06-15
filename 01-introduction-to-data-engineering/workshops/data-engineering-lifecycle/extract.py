@@ -7,11 +7,20 @@ if __name__ == "__main__":
     url = "https://dog.ceo/api/breeds/image/random"
     response = requests.get(url)
     data = response.json()
+    print(data)
 
-    # Your code here
-    
+    try:
+        with open("dogs.json", "r") as f:
+            existing_data = json.load(f)
+    except FileNotFoundError:
+        existing_data = {
+            "data": []
+        }
+
+    existing_data["data"].append(data)
 
     with open("dogs.json", "w") as f:
-        json.dump(data, f)
+        json.dump(existing_data, f)
 
-    print(data)
+    for i in existing_data["data"]:
+        print(i)
